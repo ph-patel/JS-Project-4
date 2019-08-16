@@ -1,0 +1,48 @@
+{
+	"HeadOffice": "Bamazon Sales",
+	"HeadOfficeLocation": "Toronto , Canada",
+	
+	"topDeals": [
+        {
+            "name": "CN Tower",
+			"price": 500,
+			"description": "Toronto's best CN Tower.",
+			"fectures": [
+				"Best view at the top 1",
+				"Get your favorite food for free !"
+				"Lol ! IT is fake !"
+				
+			
+			],
+			"image": "CNTOWER.jpg"
+        },
+           {
+            "name": "Eifel Tower",
+			"price": 200,
+			"description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France",
+			"fectures": [
+				"Romantic place in Paris",
+				"Get to the whole view of Paris, France",
+				"You will own one of the seven wonders of world !"
+				
+			],
+			"image": "PARIS.jpg"
+        },
+           {
+            "name": "Leaning Tower of Pisa",
+			"price": 800,
+			"description": "XYZ ",
+			"fectures": [
+				"XYZ",
+				"xyz",
+				"XYZ"
+				
+			],
+			"image": "PISA"
+        }
+	]
+}
+
+
+
+
